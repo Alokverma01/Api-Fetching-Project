@@ -1,8 +1,18 @@
-# React + Vite
+## React API Fetching Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React.js project that fetches data from external APIs, specifically JSONPlaceholder API and RandomUser API. It demonstrates how to use fetch or axios to retrieve and display data dynamically.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fetches and displays user data from JSONPlaceholder API
+Fetches random user profiles from RandomUser API
+Uses React hooks (useState, useEffect) for API calls
+Implements error handling for failed API requests
+Displays data in a structured format with responsive UI
+
+## Technologies Used
+
+-> React.js
+-> JavaScript (ES6+)
+-> Fetch API
+-> CSS
