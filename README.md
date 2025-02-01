@@ -8,7 +8,7 @@ Fetches and displays user data from JSONPlaceholder API
 Fetches random user profiles from RandomUser API
 Uses React hooks (useState, useEffect) for API calls
 Implements error handling for failed API requests
-Displays data in a structured format with responsive UI
+Displays data in a structured format.
 
 ## Technologies Used
 
