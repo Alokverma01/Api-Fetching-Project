@@ -13,6 +13,21 @@ Displays data in a structured format with responsive UI
 ## Technologies Used
 
 -> React.js
+
 -> JavaScript (ES6+)
+
 -> Fetch API
+
 -> CSS
+
+## API Endpoints Used
+
+JSONPlaceholder API: https://jsonplaceholder.typicode.com/users
+
+RandomUser API: https://randomuser.me/api/
+
+## How It Works
+
+When the application loads, it fetches user data from JSONPlaceholder and displays it.
+
+Users can refresh or load new random users from RandomUser API.
